@@ -1,0 +1,19 @@
+.logo{
+    display: flex;
+    justify-content: flex-start;
+    background-color: aqua;
+}
+
+
+.carrusel{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    height: 100%;
+
+}
+
+.menu{
+    
+    }
+
