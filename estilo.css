@@ -9,11 +9,18 @@
     display: flex;
     justify-content: center;
     background-color: aqua;
-    height: 100%;
+    
 
 }
 
-.menu{
-    
+.espacio{
+    background-color: aqua;    
     }
 
+.menuchiquito{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+
+}    
