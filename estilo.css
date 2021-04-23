@@ -24,3 +24,17 @@
     background-color: aqua;
 
 }    
+.titulo{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+
+}
+
+
+.pagdeporte{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+
+}
